@@ -14,7 +14,7 @@
 ```bash
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
-
+```
 ### 2. Start the App
 
 ```bash
