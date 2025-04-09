@@ -12,10 +12,11 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/C1earNote/weather-app.git
 cd weather-app
 ```
 ### 2. Start the App
 
 ```bash
 npm start
+```
