@@ -1,4 +1,4 @@
-# weather-app
+# The Best Weather App
 
 ## Tech Stack
 
