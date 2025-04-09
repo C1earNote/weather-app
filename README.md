@@ -7,14 +7,15 @@
 - **OpenWeatherMap API** – Weather data provider
 - **Vercel** – Deployment platform
 
-## Setup Instructions
+## Setup Instructions to access the app in local environment
 
-1. **Clone the Repository**
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
 
-2. **Start the App**
+### 2. Start the App
+
 ```bash
 npm start
